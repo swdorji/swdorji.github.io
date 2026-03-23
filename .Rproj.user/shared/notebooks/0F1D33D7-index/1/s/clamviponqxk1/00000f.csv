@@ -1,3 +1,0 @@
-"0","CA_hosp_County <- read.csv((""/Users/sheydorji/Documents/Website/quarto_site/Apps_Projects/synthetic_control/CA_hosp_County_2018.csv"")) # load data"
-"0",""
-"0","head(CA_hosp_County) # view data"

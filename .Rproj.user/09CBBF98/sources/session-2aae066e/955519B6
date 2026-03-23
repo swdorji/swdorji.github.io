@@ -1,6 +1,6 @@
 {
     "id": "955519B6",
-    "path": "~/Documents/Website/quarto_site/about.qmd",
+    "path": "~/Documents/Website/swdorji.github.io/about.qmd",
     "project_path": "about.qmd",
     "type": "quarto_markdown",
     "hash": "0",
@@ -16,7 +16,7 @@
         "scrollLine": "0",
         "rmdVisualMode": "true",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "85:901",
+        "rmdVisualModeLocation": "2:0",
         "rmdVisualWrapConfigured": "true",
         "docOutlineVisible": "1"
     },

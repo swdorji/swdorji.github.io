@@ -1,6 +1,0 @@
-"0","#| warning: false"
-"0","figure4 <- scm_fire_data |> "
-"0","  plot_mspe_ratio() + "
-"0","  labs(y = ""Respiratory hospitalizations"", x = ""County"") +"
-"0","  theme( text = element_text(size = 6))  "
-"0","print(figure4)"

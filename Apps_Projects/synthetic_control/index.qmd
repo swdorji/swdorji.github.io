@@ -80,7 +80,7 @@ The packages used to run the code within this post are {gsynth}, {tidysynth}, {t
 #### Load Data
 
 ```{r}
-CA_hosp_County <- read.csv(("/Users/sheydorji/Documents/Website/quarto_site/Apps_Projects/synthetic_control/CA_hosp_County_2018.csv")) # load data
+CA_hosp_County <- read.csv(("/Users/sheydorji/Documents/Website/swdorji.github.io/Apps_Projects/synthetic_control/CA_hosp_County_2018.csv")) # load data
 
 head(CA_hosp_County) # view data
 ```

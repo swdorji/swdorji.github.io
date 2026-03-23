@@ -1,6 +1,6 @@
 {
     "id": "FAABCCEF",
-    "path": "~/Documents/Website/quarto_site/_quarto.yml",
+    "path": "~/Documents/Website/swdorji.github.io/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
     "hash": "0",
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "9,11",
+        "cursorPosition": "5,14",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1774244305,
+    "lastKnownWriteTime": 1774247128,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1774244305400,
+    "last_content_update": 1774247128208,
     "read_only": false,
     "read_only_alternatives": []
 }

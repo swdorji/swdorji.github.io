@@ -1,9 +1,9 @@
 {
     "id": "3FD40C18",
-    "path": "~/Documents/Website/quarto_site/Apps_Projects/synthetic_control/index.qmd",
+    "path": "~/Documents/Website/swdorji.github.io/Apps_Projects/synthetic_control/index.qmd",
     "project_path": "Apps_Projects/synthetic_control/index.qmd",
     "type": "quarto_markdown",
-    "hash": "668225039",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1774244638987.0,
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "17523:7294",
-        "cursorPosition": "297,0",
+        "rmdVisualModeLocation": "7165:2460",
+        "cursorPosition": "81,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1774246253,
+    "lastKnownWriteTime": 1774247317,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1774246253199,
+    "last_content_update": 1774247317260,
     "read_only": false,
     "read_only_alternatives": []
 }

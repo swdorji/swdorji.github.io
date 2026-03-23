@@ -299,7 +299,7 @@ Note
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>CA_hosp_County <span class="ot">&lt;-</span> <span class="fu">read.csv</span>((<span class="st">"/Users/sheydorji/Documents/Website/quarto_site/Apps_Projects/synthetic_control/CA_hosp_County_2018.csv"</span>)) <span class="co"># load data</span></span>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>CA_hosp_County <span class="ot">&lt;-</span> <span class="fu">read.csv</span>((<span class="st">"/Users/sheydorji/Documents/Website/swdorji.github.io/Apps_Projects/synthetic_control/CA_hosp_County_2018.csv"</span>)) <span class="co"># load data</span></span>
 <span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a><span class="fu">head</span>(CA_hosp_County) <span class="co"># view data</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </details>
@@ -687,33 +687,33 @@ Note
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     County          ATT                 SE                
-S.E. "Alameda"       "-94.246022922496"  "90.9639590864816"
-S.E. "Butte"         "48.8149857628547"  "69.1738596299812"
-S.E. "Colusa"        "-13.6252921848421" "88.5501389500004"
-S.E. "Contra Costa"  "-4.16664980819633" "134.125801096133"
-S.E. "Fresno"        "167.581255337289"  "86.8062896562701"
-S.E. "Glenn"         "-104.985914062748" "93.2221602494965"
-S.E. "Kings"         "12.6395484316815"  "74.9455479423545"
-S.E. "Lake"          "-12.4924729122626" "92.5890606736743"
-S.E. "Marin"         "7.9739670928106"   "108.429522695563"
-S.E. "Mendocino"     "-32.1891855751493" "132.923227332204"
-S.E. "Merced"        "24.0713677378429"  "79.2819743897126"
-S.E. "Napa"          "-95.326029809051"  "124.410005431892"
-S.E. "Placer"        "-138.313208951425" "107.617329302461"
-S.E. "Sacramento"    "110.776636675264"  "101.866153452721"
-S.E. "San Francisco" "-113.690644707111" "98.0624842971276"
-S.E. "San Joaquin"   "61.2254383205131"  "108.470886209965"
-S.E. "San Mateo"     "97.4599934692371"  "130.546077817142"
-S.E. "Santa Clara"   "-7.45486116302845" "111.330671876166"
-S.E. "Santa Cruz"    "-145.025176573666" "106.577517037535"
-S.E. "Solano"        "-71.3603534032427" "118.213425038805"
-S.E. "Sonoma"        "-21.2670906424413" "112.722225457178"
-S.E. "Stanislaus"    "115.706208834495"  "131.899285472577"
-S.E. "Sutter"        "-42.7956704201434" "106.017025625347"
-S.E. "Tehama"        "-44.0943791806702" "81.197688922632" 
-S.E. "Tulare"        "125.496414948985"  "79.1031163132659"
-S.E. "Yolo"          "-12.4507910357635" "126.042421461987"
-S.E. "Yuba"          "-92.7138655874822" "108.741107605291"</code></pre>
+S.E. "Alameda"       "-94.246022922496"  "84.1878942870794"
+S.E. "Butte"         "48.8149857628547"  "126.481171342061"
+S.E. "Colusa"        "-13.6252921848421" "99.0402320711583"
+S.E. "Contra Costa"  "-4.16664980819633" "117.210015501069"
+S.E. "Fresno"        "167.581255337289"  "125.647604609667"
+S.E. "Glenn"         "-104.985914062748" "107.483192017989"
+S.E. "Kings"         "12.6395484316815"  "77.024155287937" 
+S.E. "Lake"          "-12.4924729122626" "110.775607635811"
+S.E. "Marin"         "7.9739670928106"   "110.067175841468"
+S.E. "Mendocino"     "-32.1891855751493" "84.7721650793409"
+S.E. "Merced"        "24.0713677378429"  "137.472650276578"
+S.E. "Napa"          "-95.326029809051"  "87.5011152663477"
+S.E. "Placer"        "-138.313208951425" "108.127841666662"
+S.E. "Sacramento"    "110.776636675264"  "85.1572113014408"
+S.E. "San Francisco" "-113.690644707111" "113.708148881892"
+S.E. "San Joaquin"   "61.2254383205131"  "113.504109082968"
+S.E. "San Mateo"     "97.4599934692371"  "114.156052004263"
+S.E. "Santa Clara"   "-7.45486116302845" "129.794774274144"
+S.E. "Santa Cruz"    "-145.025176573666" "120.26686365926" 
+S.E. "Solano"        "-71.3603534032427" "107.86378490518" 
+S.E. "Sonoma"        "-21.2670906424413" "68.9241695380124"
+S.E. "Stanislaus"    "115.706208834495"  "108.980319282897"
+S.E. "Sutter"        "-42.7956704201434" "157.940739823609"
+S.E. "Tehama"        "-44.0943791806702" "85.3291208484333"
+S.E. "Tulare"        "125.496414948985"  "96.0703320731751"
+S.E. "Yolo"          "-12.4507910357635" "103.904863897093"
+S.E. "Yuba"          "-92.7138655874822" "98.0972007065346"</code></pre>
 </div>
 </div>
 <p>Finally, the results are compiled in a table of county, ATT, and Standard Error.</p>
