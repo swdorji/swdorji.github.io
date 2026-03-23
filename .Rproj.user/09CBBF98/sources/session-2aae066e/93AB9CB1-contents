@@ -1,0 +1,4 @@
+/*-- scss:defaults --*/
+
+// Change the navbar background color
+$navbar-bg: ##bca6de; 
