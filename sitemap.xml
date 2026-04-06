@@ -1,19 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://swdorji.github.io/about.html</loc>
-    <lastmod>2026-03-23T06:43:45.069Z</lastmod>
+    <loc>https://swdorji.github.io/Apps_Projects/posts/synthetic_control/index.html</loc>
+    <lastmod>2026-04-06T14:58:00.702Z</lastmod>
   </url>
   <url>
-    <loc>https://swdorji.github.io/Apps_Projects/index.html</loc>
-    <lastmod>2026-03-23T06:43:45.061Z</lastmod>
+    <loc>https://swdorji.github.io/Apps_Projects/posts/bfl_database/index.html</loc>
+    <lastmod>2026-04-06T14:58:00.678Z</lastmod>
   </url>
   <url>
     <loc>https://swdorji.github.io/index.html</loc>
-    <lastmod>2026-03-23T06:43:45.133Z</lastmod>
+    <lastmod>2026-04-06T14:58:01.359Z</lastmod>
   </url>
   <url>
-    <loc>https://swdorji.github.io/Apps_Projects/synthetic_control/index.html</loc>
-    <lastmod>2026-03-23T06:43:45.067Z</lastmod>
+    <loc>https://swdorji.github.io/Workshops_Conferences/posts/bfl/index.html</loc>
+    <lastmod>2026-04-06T14:58:00.800Z</lastmod>
+  </url>
+  <url>
+    <loc>https://swdorji.github.io/Workshops_Conferences/posts/iss/index.html</loc>
+    <lastmod>2026-04-06T14:58:00.801Z</lastmod>
+  </url>
+  <url>
+    <loc>https://swdorji.github.io/Workshops_Conferences/index.html</loc>
+    <lastmod>2026-04-06T14:58:00.704Z</lastmod>
+  </url>
+  <url>
+    <loc>https://swdorji.github.io/Workshops_Conferences/posts/Atlantis/index.html</loc>
+    <lastmod>2026-04-06T14:58:00.796Z</lastmod>
+  </url>
+  <url>
+    <loc>https://swdorji.github.io/Workshops_Conferences/posts/aquahack/index.html</loc>
+    <lastmod>2026-04-06T14:58:00.798Z</lastmod>
+  </url>
+  <url>
+    <loc>https://swdorji.github.io/about.html</loc>
+    <lastmod>2026-04-06T14:58:00.835Z</lastmod>
+  </url>
+  <url>
+    <loc>https://swdorji.github.io/Apps_Projects/index.html</loc>
+    <lastmod>2026-04-06T14:58:00.595Z</lastmod>
+  </url>
+  <url>
+    <loc>https://swdorji.github.io/Apps_Projects/posts/metagenome/index.html</loc>
+    <lastmod>2026-04-06T14:58:00.679Z</lastmod>
   </url>
 </urlset>
