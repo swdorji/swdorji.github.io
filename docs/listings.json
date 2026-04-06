@@ -2,7 +2,18 @@
   {
     "listing": "/Apps_Projects/index.html",
     "items": [
-      "/Apps_Projects/synthetic_control/index.html"
+      "/Apps_Projects/posts/synthetic_control/index.html",
+      "/Apps_Projects/posts/bfl_database/index.html",
+      "/Apps_Projects/posts/metagenome/index.html"
+    ]
+  },
+  {
+    "listing": "/Workshops_Conferences/index.html",
+    "items": [
+      "/Workshops_Conferences/posts/bfl/index.html",
+      "/Workshops_Conferences/posts/aquahack/index.html",
+      "/Workshops_Conferences/posts/iss/index.html",
+      "/Workshops_Conferences/posts/Atlantis/index.html"
     ]
   }
 ]

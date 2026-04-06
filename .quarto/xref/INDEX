@@ -10,5 +10,35 @@
   },
   "Apps_Projects/synthetic_control/index.qmd": {
     "index.html": "0648ff13"
+  },
+  "Workshops_Conferences/index.qmd": {
+    "index.html": "17c52574"
+  },
+  "Workshops_Conferences/Atlantis/index.qmd": {
+    "index.html": "6b622cb8"
+  },
+  "Workshops_Conferences/posts/Atlantis/index.qmd": {
+    "index.html": "f0e5d4c3"
+  },
+  "Workshops_Conferences/posts/aquahack/index.qmd": {
+    "index.html": "f13c4bd2"
+  },
+  "Workshops_Conferences/posts/bfl/index.qmd": {
+    "index.html": "31223655"
+  },
+  "Workshops_Conferences/posts/iss/index.qmd": {
+    "index.html": "e1ea8aea"
+  },
+  "Apps_Projects/metagenome/index.qmd": {
+    "index.html": "91885f7a"
+  },
+  "Apps_Projects/posts/synthetic_control/index.qmd": {
+    "index.html": "941af5f4"
+  },
+  "Apps_Projects/posts/metagenome/index.qmd": {
+    "index.html": "2ebb040e"
+  },
+  "Apps_Projects/posts/bfl_database/index.qmd": {
+    "index.html": "fb9f5889"
   }
 }

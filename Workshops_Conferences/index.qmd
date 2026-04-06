@@ -1,0 +1,9 @@
+---
+title: "Workshops & Conferences"
+format: html
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+---
+

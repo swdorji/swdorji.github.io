@@ -2,9 +2,7 @@
 title: "Apps & Projects"
 format: html
 listing:
-  contents: synthetic_control
+  contents: posts
   sort: "date desc"
-  type: default
-layout: Default
+  type: grid
 ---
-
