@@ -1,6 +1,6 @@
 ---
 title: "Shey Dorji"
-image: "files/img/profilemode1.jpg"
+image: "files/img/profile4.jpeg"
 about:
   template: jolla
   links:
