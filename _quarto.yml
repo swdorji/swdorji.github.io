@@ -11,10 +11,10 @@ website:
       - about.qmd
     right: 
       - href: Apps_Projects/index.qmd
-        text: Apps & Projects
+        text: apps & projects
         icon: boxes
       - href: Workshops_Conferences/index.qmd
-        text: Workshops & Conferences
+        text: workshops & conferences
         icon: airplane
 format:
   html:

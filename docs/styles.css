@@ -1,5 +1,41 @@
-/* css styles */
+
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Libre+Caslon+Display&display=swap');
+
+/* scss styles */
+
+@font-face {
+  font-family: 'Morelife';
+  src: url('fonts/Morelife.otf') format('opentype');
+}
 
 .title {
-  color: maroon
+  font-family: 'Libre Caslon Display';
+  letter-spacing: 1.5px;
+  font-size: 50px;
+  color: maroon;
+}
+
+body {
+  background-color: #ebe8d1  ;
+  font-family: 'Figtree';
+  color: ##162e1a;
+  line-height: 1.5;
+  font-size: 19px;
+  font-weight: 350;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Libre Caslon Display'; 
+  letter-spacing: 1.5px;
+  line-height: 1.2;
+  font-size: 25px;
+  color: black;
+}
+
+.navbar {
+  font-family: 'Figtree', sans-serif;
+  color: maroon;
+  font-size: 19px;
+  letter-spacing: 0.5px;
 }

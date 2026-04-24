@@ -1,5 +1,5 @@
 ---
-title: "Workshops & Conferences"
+title: "workshops & conferences"
 format: html
 listing:
   contents: posts

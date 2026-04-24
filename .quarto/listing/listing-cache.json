@@ -1,17 +1,10 @@
 {
   "listingMap": {
-    "Apps_Projects/index.qmd": [
-      "synthetic_control",
+    "Workshops_Conferences/index.qmd": [
       "posts"
     ],
-    "Workshops_Conferences/index.qmd": [
-      "Atlantis",
-      "Atlantis, aquahack",
-      "-Atlantis, aquahack",
-      "-Atlantis -aquahack",
-      "posts",
-      "posts/*/index.qmd",
-      "posts s"
+    "Apps_Projects/index.qmd": [
+      "posts"
     ]
   }
 }

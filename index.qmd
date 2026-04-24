@@ -10,4 +10,4 @@ about:
       href: https://www.linkedin.com/in/sdorji
 ---
 
-Marine Biochemistry | Environmental Economics
+marine biochemistry | environmental economics
