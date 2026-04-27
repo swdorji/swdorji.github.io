@@ -5,8 +5,9 @@ project:
 execute: 
   freeze: auto
 website:
-  title: "Shey Dorji"
+  title: ""
   navbar:
+    logo: files/img/brandlogoone.png
     left:
       - about.qmd
     right: 
