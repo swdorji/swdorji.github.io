@@ -1,6 +1,6 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Libre+Caslon+Display&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Libre+Caslon+Display&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap');
 /* scss styles */
 
 @font-face {
@@ -9,33 +9,87 @@
 }
 
 .title {
-  font-family: 'Libre Caslon Display';
+  font-family: 'Libre Caslon Text';
   letter-spacing: 1.5px;
-  font-size: 50px;
+  font-size: 40px;
   color: maroon;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto Serif'; 
+  letter-spacing: 1.5px;
+  line-height: 1.2;
+  font-size: 20px;
+  color: maroon;
+  font-weight: 480 ;
 }
 
 body {
   background-color: #ebe8d1  ;
   font-family: 'Figtree';
   color: ##162e1a;
-  line-height: 1.5;
+  line-height: 1.2;
+  letter-spacing: 0.8px;
   font-size: 19px;
   font-weight: 350;
 }
-
-
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Libre Caslon Display'; 
-  letter-spacing: 1.5px;
-  line-height: 1.2;
-  font-size: 25px;
-  color: black;
+  
+.quarto-listing .listing-description, .listing-item-description { 
+  font-size: 16px ;
+  font-style: italic;
 }
 
 .navbar {
-  font-family: 'Figtree', sans-serif;
   color: maroon;
   font-size: 19px;
   letter-spacing: 0.5px;
+}
+
+.navbar-brand img { 
+  max-height: 50px;
+  width: 110px;
+}
+
+/* animating the navbar */
+
+.navbar-logo {
+  transition: all 0.3s;
+}
+
+.navbar-logo:hover {
+  transform: translateY(-4px);
+}
+
+/* blog post category color */
+
+.quarto-grid-item .card-title,
+.quarto-grid-item .listing-categories .listing-category {
+  color: #2c3e50 !important;
+  font-weight: 600;
+}
+/* blog post category hover color */
+.quarto-grid-item .card-title:hover,
+.quarto-grid-item .listing-categories:hover .listing-category-category:hover {
+  color: maroon !important;
+}
+  
+/* sidebar nav link - active/selected state */
+#TOC .nav-link.active {
+  color: maroon !important;
+}
+
+/* sidebar nav link - hover state */
+#TOC .nav-link:hover {
+  color: maroon !important;
+}
+
+/* non-grid listing page - post title color */
+h3.listing-title a.no-external {
+  color: #2c3e50 !important;
+  font-weight: 600 ;
+}
+
+/* hover state */
+h3.listing-title a.no-external:hover {
+  color: maroon !important;
 }
