@@ -82,5 +82,26 @@
     "title": "Metagenomic profiling of the red seaweed Asparagopsis taxiformis",
     "section": "",
     "text": "I built this microbiome visualization tool as a part of a larger metagenomic project at the aquaculture and climate technology startup Symbrosia. The R&D team used this tool to visualize the holobiont composition of the macroalgae Asparagopsis taxiformis and build correlations between community composition and key production performance indicators.\nI designed a specialized protocol for DNA extraction and metagenomic shotgun sequencing with a 16s metabarcode to produce the data used in this plot. Final product visualization was built using plotly.js libraries, and culture replicate names have been anonymized to protect intellectualy property.\n\n\n\n\n\nReproductively active A. taxiformis tetrasporophyte under microscopy"
+  },
+  {
+    "objectID": "Soundings/index.html",
+    "href": "Soundings/index.html",
+    "title": "soundings",
+    "section": "",
+    "text": "Coming soon!\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Soundings/posts/index.html",
+    "href": "Soundings/posts/index.html",
+    "title": "What I want to write about",
+    "section": "",
+    "text": "What I want to write about\n\nA shared voyage: china US-Exchange (soundings or workshops/conferences)\nChile expedition\ntales from laya\ntales from manas\nParley Hawaii meetup (maybe)\nsomething from montenegro this summer"
+  },
+  {
+    "objectID": "Soundings/posts/index.html#what-i-want-to-write-about",
+    "href": "Soundings/posts/index.html#what-i-want-to-write-about",
+    "title": "index",
+    "section": "",
+    "text": "A shared voyage: china US-Exchange (soundings or workshops/conferences)\nChile expedition\ntales from laya\ntales from manas\nParley Hawaii meetup (maybe)\nsomething from montenegro this summer"
   }
 ]

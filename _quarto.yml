@@ -17,6 +17,9 @@ website:
       - href: Workshops_Conferences/index.qmd
         text: workshops & conferences
         icon: airplane
+      - href: Soundings/index.qmd
+        text: soundings
+        icon: water
 format:
   html:
     theme:

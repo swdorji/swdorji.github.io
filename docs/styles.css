@@ -23,9 +23,9 @@ h1, h2, h3, h4, h5, h6 {
   color: maroon;
   font-weight: 480 ;
 }
-
+/*logo is in color #ebe8d1 */
 body {
-  background-color: #ebe8d1  ;
+  background-color: #F2EFDE ;
   font-family: 'Figtree';
   color: ##162e1a;
   line-height: 1.2;
@@ -65,7 +65,7 @@ body {
 .quarto-grid-item .card-title,
 .quarto-grid-item .listing-categories .listing-category {
   color: #2c3e50 !important;
-  font-weight: 600;
+  font-weight: 500;
 }
 /* blog post category hover color */
 .quarto-grid-item .card-title:hover,

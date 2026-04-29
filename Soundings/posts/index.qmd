@@ -1,0 +1,15 @@
+---
+title: ""
+format: html
+draft: true
+toc: false
+---
+
+# What I want to write about
+
+- A shared voyage: china US-Exchange (soundings or workshops/conferences)
+- Chile expedition
+- tales from laya
+- tales from manas
+- Parley Hawaii meetup (maybe)
+- something from montenegro this summer

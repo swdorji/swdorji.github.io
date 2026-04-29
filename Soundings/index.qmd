@@ -1,11 +1,16 @@
 ---
-title: "workshops & conferences"
+title: "soundings"
 format: html
-page-layout: full
 toc: false
 listing:
   contents: posts
   sort: "date desc"
-  type: default
+  type: grid
+  
 ---
 
+
+
+<br>
+
+### Coming soon!

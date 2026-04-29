@@ -7,7 +7,8 @@ about:
     - icon: envelope
       href: mailto:sdorji@bren.ucsb.edu
     - icon: linkedin 
-      href: https://www.linkedin.com/in/sdorji
+      href: https://www.linkedin.com/in/shey-dorji-b21437212/
+    - icon: github
+      href: https://www.github.com/swdorji
 ---
-
 marine biochemistry | environmental economics
