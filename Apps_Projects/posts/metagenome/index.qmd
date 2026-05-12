@@ -3,6 +3,7 @@ title: "Metagenomic profiling of the red seaweed *Asparagopsis taxiformis*"
 author: "Shey Dorji"
 date: 2023-06-12
 abstract: "Internal tool to help investigate algal microbiome function under different cultivation conditions"
+categories: [bioinformatics, aquaculture]
 ---
 I built this microbiome visualization tool as a part of a larger metagenomic project at the aquaculture and climate technology startup [Symbrosia](https://www.symbrosia.co). The R&D team used this tool to visualize the holobiont composition of the macroalgae *Asparagopsis taxiformis* and build correlations between community composition and key production performance indicators. 
 

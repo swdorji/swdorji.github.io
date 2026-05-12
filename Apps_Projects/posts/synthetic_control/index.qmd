@@ -3,6 +3,7 @@ title: "A comparison of synthetic control methods for causal inference"
 subtitle: "A Case Study of Wildfire Impacts on Health in California"
 author: "Juliahna Wang, Alecia Dezzani, Shey Dorji"
 date: 03/018/2026
+categories: [econometrics, causal inference]
 format:
   html:
     code-fold: true

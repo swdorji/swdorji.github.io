@@ -5,6 +5,7 @@ date: 07-015-2025
 abstract: "ShinyApp for streamlined data entry, management and visualization of conservation finance projects"
 format: html
 toc: false
+categories: [database management, conservation finance]
 ---
 <style>
 figcaption {

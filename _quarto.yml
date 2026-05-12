@@ -7,7 +7,7 @@ execute:
 website:
   title: ""
   navbar:
-    logo: files/img/brandlogoone.png
+    logo: files/img/brandlogotwo.png
     left:
       - about.qmd
     right: 

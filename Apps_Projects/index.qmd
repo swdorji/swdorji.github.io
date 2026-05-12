@@ -6,4 +6,5 @@ listing:
   contents: posts
   sort: "date desc"
   type: grid
+  categories: false
 ---
